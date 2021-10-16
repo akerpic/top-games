@@ -13,8 +13,8 @@ if it is not installed, then download it from [the link](https://www.microsoft.c
 ## Getting Started
 
 ``` bash
-$ git clone https://github.com/akerpic/play-store-top-games.git
-$ cd play-store-top-games/TopGames
+$ git clone https://github.com/akerpic/top-games.git
+$ cd top-games/TopGames
 $ dotnet run
 ```
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
